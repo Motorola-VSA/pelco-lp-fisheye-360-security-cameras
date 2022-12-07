@@ -10,7 +10,7 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/fisheye-360-security-cameras/10.%20Panoramic%20Fish%20Eye%20Desktop.jpg')",
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/fisheye-360-security-cameras/10.%20Panoramic%20Fish%20Eye%20Desktop%20(1).jpg')",
       'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/fisheye-360-security-cameras/10.%20Panoramic%20Fish%20Eye%20Mobile.jpg')"
     },
     extend: {
